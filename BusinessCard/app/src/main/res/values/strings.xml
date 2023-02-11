@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Yannelly Mercado</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone">+1(978)678-6768</string>
+    <string name="twitter">disssbi_</string>
+    <string name="email">yannellym@gmail.com</string>
+</resources>
